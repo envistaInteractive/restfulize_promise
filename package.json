@@ -1,13 +1,13 @@
 {
-  "name": "restfulize_promise",
+  "name": "@enspire/restfulize",
   "description": "Node.js restful framework",
   "version": "3.2.4",
   "author": {
-    "name": "Jason Futch",
-    "email": "jasonfutch@gmail.com"
+    "name": "envistaInteractive",
+    "email": "satish.kulkarni@koerber-supplychain.com"
   },
   "bugs": {
-    "url": "https://github.com/jasonfutch/restfulize_promise/issues"
+    "url": "https://github.com/envistaInteractive/restfulize_promise/issues"
   },
   "dependencies": {
     "@elastic/elasticsearch": "^7.17.0",
@@ -28,17 +28,11 @@
   "engines": {
     "node": ">= 14"
   },
-  "homepage": "https://github.com/jasonfutch/restfulize_promise",
+  "homepage": "https://github.com/envistaInteractive/restfulize_promise",
   "license": "MIT",
   "main": "./index.js",
-  "maintainers": [
-    {
-      "name": "jasonfutch",
-      "email": "jasonfutch@gmail.com"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jasonfutch/restfulize_promise"
+    "url": "https://github.com/envistaInteractive/restfulize_promise"
   }
 }
