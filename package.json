@@ -1,5 +1,5 @@
 {
-  "name": "@enspire/restfulize",
+  "name": "@enspire/restfulize_promise",
   "description": "Node.js restful framework",
   "version": "3.2.4",
   "author": {
