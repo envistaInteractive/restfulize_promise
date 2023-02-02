@@ -1,7 +1,7 @@
 {
   "name": "@enspire/restfulize_promise",
   "description": "Node.js restful framework",
-  "version": "3.2.4",
+  "version": "3.2.5",
   "author": {
     "name": "envistaInteractive",
     "email": "satish.kulkarni@koerber-supplychain.com"
